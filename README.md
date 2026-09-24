@@ -174,6 +174,15 @@ Visit `http://localhost:5173`.
 ![Employee Dashboard](./screenshots/employee-dashboard.png)
 ![Project Assignments](./screenshots/assignments.png)
 ```
+<div align="center">
+<img width="48%"  alt="login" src="https://github.com/user-attachments/assets/639e82fd-723a-454c-8adb-b76ed28f93cd" />
+<img width="48%"  alt="admin-dashboard" src="https://github.com/user-attachments/assets/025121f3-f4cc-4634-9a2b-22860584f35d" />
+</div>    
+<div align="center">
+<img width="48%"  alt="employee-dashboard" src="https://github.com/user-attachments/assets/fca4e7b7-b1d2-44f9-9295-d32c40a39dd2" />
+<img width="48%"  alt="assignments" src="https://github.com/user-attachments/assets/62b47fc1-4edb-4fe0-8191-3fd66fb6e469" />
+</div>    
+
 
 ## Testing
 
@@ -182,4 +191,6 @@ Manually verified scenarios include: duplicate employee email rejection, second 
 ## Author
 
 **Sarode Sreevya Rao**
+
+
 Built as a MERN-stack student project demonstrating full-stack architecture, role-based authorization, and progress-tracking design.
