@@ -167,7 +167,6 @@ Visit `http://localhost:5173`.
 
 ## Screenshots
 
-*(Add screenshots to a `/screenshots` folder and reference them here, e.g.)*
 
 ```markdown
 ![Login](./screenshots/login.png)
@@ -182,4 +181,5 @@ Manually verified scenarios include: duplicate employee email rejection, second 
 
 ## Author
 
+**Sarode Sreevya Rao**
 Built as a MERN-stack student project demonstrating full-stack architecture, role-based authorization, and progress-tracking design.
