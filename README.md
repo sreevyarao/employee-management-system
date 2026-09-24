@@ -182,6 +182,11 @@ Visit `http://localhost:5173`.
 <img width="48%"  alt="employee-dashboard" src="https://github.com/user-attachments/assets/fca4e7b7-b1d2-44f9-9295-d32c40a39dd2" />
 <img width="48%"  alt="assignments" src="https://github.com/user-attachments/assets/62b47fc1-4edb-4fe0-8191-3fd66fb6e469" />
 </div>    
+<div align="center">
+<img width="48%"  alt="Screenshot 2026-09-23 002639" src="https://github.com/user-attachments/assets/775078f5-c009-47f6-8dad-a766db0ac3db" />
+<img width="48%"  alt="Screenshot 2026-09-23 002701" src="https://github.com/user-attachments/assets/33bdef8d-265a-4cd8-a923-e6e34c18e915" />
+</div>    
+
 
 
 ## Testing
